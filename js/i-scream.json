@@ -8,25 +8,25 @@
         "calories": 200,
         "type": "ice-cream",
         "ingredients": ["Chocolate Syrup", "Peppermint Sprinkles", "Vanilla Base"],
-        "image": "https://github.com/Flora811/Js-Lab4/blob/main/images/chocolate-mint.svg"
+        "image": "https://flora811.github.io/Js-Lab4/images/chocolate-mint.svg"
     }, {
         "name": "Peach Mango",
         "calories": 250,
         "type": "milkshake-type ice-cream",
         "ingredients": ["Peach Syrup", "Mango Chunks", "Vanilla Base"],
-        "image": "https://github.com/Flora811/Js-Lab4/blob/main/images/peach-mango.svg"
+        "image": "https://flora811.github.io/Js-Lab4/images/peach-mango.svg"
     }, {
         "name": "Strawberry Sprinkle",
         "calories": 300,
         "type": "ice-cream",
         "ingredients": ["Strawberry Syrup", "Sprinkles", "Chocolate Base"],
-        "image": "https://github.com/Flora811/Js-Lab4/blob/main/images/strawberry-sprinkle.svg"
+        "image": "https://flora811.github.io/Js-Lab4/images/strawberry-sprinkle.svg"
     }, {
         "name": "Oreo Cookie Dough ",
         "calories": 300,
         "type": "Blizzard",
         "ingredients": ["Chocolate Syrup", "Oreo cookies", "Chocolate and Vanilla Base"],
-        "image": "https://github.com/Flora811/Js-Lab4/blob/main/images/ice-cream-xtra2.svg"
+        "image": "https://flora811.github.io/Js-Lab4/images/ice-cream-xtra2.svg"
     }
 
 ]
